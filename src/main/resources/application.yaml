@@ -1,0 +1,10 @@
+spring:
+  r2dbc:
+    url: ${DB_URL}/todo
+    username: ${DB_USERNAME}
+    password: ${DB_PASSWORD}
+
+
+# DB_URL=r2dbc:postgresql://localhost:5432/todo
+# DB_USERNAME=dba
+# DB_PASSWORD=dba
