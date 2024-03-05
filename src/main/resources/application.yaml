@@ -8,3 +8,4 @@ spring:
 # DB_URL=r2dbc:postgresql://localhost:5432/todo
 # DB_USERNAME=dba
 # DB_PASSWORD=dba
+# TODO: ADD THESE ENV VARIABLES TO THE INTELLIJ
